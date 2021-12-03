@@ -1,0 +1,8 @@
+1. create a new folder named "bluetooth_car"
+2. copy bluetooth_car.cpp (Sourse file), bluetooth_car.h (header file) keyword.txt 
+   files to bluetooth car folder.
+3. now you have to install Arduino Ssoftware in your pc
+4. copy the bluetooth_car folder
+5. go to Arduino installed folder
+6. and go to libraries folder in there
+7. past bluetooth_car folder.
