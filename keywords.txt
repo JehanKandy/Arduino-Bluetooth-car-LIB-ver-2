@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For Bluetooth_car
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Bluetooth_car	KEYWORD1          Bluetooth_car
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+stop_rc		KEYWORD2
+forward_rc	KEYWORD2
+backward_rc	KEYWORD2
+left_rc		KEYWORD2
+right_rc		KEYWORD2
+leds		KEYWORD2
+Pinofrc		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
