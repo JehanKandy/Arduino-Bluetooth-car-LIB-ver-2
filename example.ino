@@ -1,3 +1,21 @@
+/*
+ * For L298N Motor Controller
+ * 
+ * |  IN1 | IN2 | IN3 | IN4 | Function |
+ * |______|_____|_____|_____|__________|
+ * |   0  |  0  |  0  |  0  |   Stop   |
+ * |   1  |  0  |  1  |  0  |  Forward |
+ * |   0  |  1  |  0  |  1  |  Reverse |
+ * |   1  |  0  |  0  |  1  |   Left   |
+ * |___0__|__1__|__1__|__0__|___Right__|
+ * 
+ * 
+ */
+
+
+
+
+
 #include <Bluetooth_car.h>
 int val;
 
