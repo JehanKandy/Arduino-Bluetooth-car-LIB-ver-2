@@ -5,4 +5,7 @@
 4. copy the bluetooth_car folder
 5. go to Arduino installed folder
 6. and go to libraries folder in there
-7. past bluetooth_car folder.
+7. past bluetooth_car folder.<br>
+8. open Arduino software 
+9. copy the code and past on editer
+10. make the RC car and upload the code
